@@ -6,4 +6,4 @@ Explore new lands, avoid enemies and obtain the treasure!
 
 ## Instructions
 - Use spacebar to jump
-- Use WASD to move
+- Use left and right arrow keys to move
